@@ -1,7 +1,8 @@
 @font-face {
-  font-family: "HemnetBonad_Demibold";
-  src: url("soff.woff2") format("woff2"),
-       url("soff.woff") format("woff");
-  font-weight: normal;
+  font-family: 'HemnetBonad-Demibold';
+  src: url('https://<heddamarklund>.github.io/<Hemnet-Font>/fonts/HemnetBonad-Demibold.woff2') format('woff2'),
+       url('https://<heddamarklund>.github.io/<Hemnet-Font>/fonts/HemnetBonad-Demibold.woff') format('woff');
+  font-weight: 600;        
   font-style: normal;
+  font-display: swap;
 }
